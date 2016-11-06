@@ -1648,6 +1648,7 @@ footer p {
     height: 300px;
     border: 1px solid #000;
     float: right; */
+    display: none;
     background-image: url(../img/logo-x-drk.png);
     margin: 0em auto;
     top: 0;
