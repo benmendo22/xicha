@@ -51,6 +51,7 @@
 /* Google Fonts */
 @import url("https://fonts.googleapis.com/css?family=Montserrat:400,700");
 @import url("https://fonts.googleapis.com/css?family=Open+Sans+Condensed:400,300,600,700");
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Gloria+Hallelujah|Indie+Flower|Rock+Salt|Shadows+Into+Light');
 /*
 * http://meyerweb.com/eric/tools/css/reset/ 
 * v2.0 | 20110126
@@ -387,8 +388,8 @@ h2 {
 }
 
 h3 {
-  font-size: 30px;
-  margin-bottom: 25px;
+  font-size: 50px;
+  margin-bottom: 15px;
 }
 
 h4 {
@@ -717,7 +718,7 @@ sup {
   color: #000000;
 }
 #right-side .content h3 {
-  font-family: Montserrat, "Helvetica Neue", "Lucida Grande", Arial, Verdana, sans-serif;
+  font-family: Amatic SC, "Helvetica Neue", "Lucida Grande", Arial, Verdana, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
 }
@@ -1045,7 +1046,7 @@ sup {
   z-index: 5;
   opacity: 0;
   overflow: hidden;
-  background: url(../img/pattern-background);
+  background: url(../img/pattern-background.jpg);
   border: 10px solid #FFFFFF;
 }
 .dialog__content::before {

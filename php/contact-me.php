@@ -1,7 +1,7 @@
 <?php
 if($_POST) {
 
-    $to_Email = "myemail@email.com"; // Write your email here
+    $to_Email = "info@xichabrewing.com"; // Write your email here
    
     // Use PHP To Detect An Ajax Request
     if(!isset($_SERVER['HTTP_X_REQUESTED_WITH']) AND strtolower($_SERVER['HTTP_X_REQUESTED_WITH']) != 'xmlhttprequest') {
@@ -62,7 +62,7 @@ if($_POST) {
         die($output);
         
     } else {
-        $output = json_encode(array('type'=>'message', 'text' => '<i class="icon ion-checkmark-round"></i> Hello '.$_POST["userName"] .', Your message has been sent, we will get back to you asap !'));
+        $output = json_encode(array('type'=>'message', 'text' => '<i class="icon ion-checkmark-round"></i> Hello '.$_POST["userName"] .', Your message has been sent, we will get back to you !'));
         die($output);
     }
 }
