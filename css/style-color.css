@@ -625,7 +625,7 @@ sup {
 .brand-logo {
   position: absolute;
   left: 10%;
-  top: 5%;
+  top: 0;
   max-width: 200px;
 }
 
@@ -647,7 +647,7 @@ sup {
   z-index: 0;
   left: 0;
   padding: 0;
-  top: 50vh;
+  top: 60vh;
   width: 100%;
   padding: 0 10%;
   -webkit-transition: all 0.3s cubic-bezier(0, 0, 0.58, 1);
@@ -668,14 +668,15 @@ sup {
 }
 
   #xicha-x {
-    position: relative;
+    position: fixed;
     width: 300px;
     height: 450px;
     background-image: url(../img/logo-x.png);
     background-repeat: no-repeat;
     float: right;
     right: 15%;
-    top: 400px;
+    top: 27vh;
+    /*top: 400px;*/
   }
 
 /* ------------------------------------- */

@@ -1,1 +1,1 @@
-<?php header( 'Location: /index-color.html' ) ;  ?>
+<?php header( 'Location: index-color.html' ) ;  ?>
