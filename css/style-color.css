@@ -647,7 +647,7 @@ sup {
   z-index: 0;
   left: 0;
   padding: 0;
-  top: 60vh;
+  top: 50vh;
   width: 100%;
   padding: 0 10%;
   -webkit-transition: all 0.3s cubic-bezier(0, 0, 0.58, 1);
@@ -673,10 +673,10 @@ sup {
     height: 450px;
     background-image: url(../img/logo-x.png);
     background-repeat: no-repeat;
-    float: right;
+    /*float: right;*/
     right: 15%;
     /*top: 400px;*/
-    top: 27vh;
+    top: 30vh;
   }
 
 /* ------------------------------------- */
@@ -1566,7 +1566,7 @@ footer p {
 /* Large Devices, Wide Screens */
 /* Notebook devices */
 /* Medium Devices, Desktops */
-@media only screen and (max-width: 1024px) {
+@media only screen and (max-width: 1024px) , screen and (max-height: 800px) {
   .overlay {
     left: 0;
     width: 100%;
