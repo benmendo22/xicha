@@ -647,7 +647,7 @@ sup {
   z-index: 0;
   left: 0;
   padding: 0;
-  top: 60vh;
+  top: 50vh;
   width: 100%;
   padding: 0 10%;
   -webkit-transition: all 0.3s cubic-bezier(0, 0, 0.58, 1);
@@ -675,13 +675,9 @@ sup {
     background-repeat: no-repeat;
     /*float: right;*/
     right: 15%;
-<<<<<<< HEAD
     /*top: 400px;*/
     top: 30vh;
-=======
-    top: 27vh;
     /*top: 400px;*/
->>>>>>> 1cf3a31a87a4a4a2a8b9e510723b752a5d1eeb76
   }
 
 /* ------------------------------------- */
