@@ -6,7 +6,7 @@ require("sendgrid-php/sendgrid-php.php");
 
 $from = new SendGrid\Email(null, "benmendo22@hotmail.com");
 $subject = "Hello World from the SendGrid PHP Library!";
-$to = new SendGrid\Email(null, "test@example.com");
+$to = new SendGrid\Email(null, "ben.m.mendoza@gmail.com");
 $content = new SendGrid\Content("text/plain", "Hello, Email!");
 $mail = new SendGrid\Mail($from, $subject, $to, $content);
 
