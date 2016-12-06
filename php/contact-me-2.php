@@ -56,7 +56,8 @@ if($_POST) {
     
     //'X-Mailer: PHP/' . phpversion();
     
-    from = new SendGrid\Email(null, "info@xichabrewing.com");
+    $from = new SendGrid\Email(null, "info@xichabrewing.com");
+    $subject = $_POST["userSubject"];
 
     // Body of the Email received in your Mailbox
     $emailcontent = 'Hey! You have received a new message from the visitor <strong>'.$_POST["userName"].'</strong><br/><br/>'. "\r\n" .
