@@ -9,7 +9,7 @@ $sg = new \SendGrid($apiKey);
 
 if($_POST) {
 
-    $to = new SendGrid\Email(null, "info@xichabrewing.com"; // Write your email here
+    $to = new SendGrid\Email(null, "info@xichabrewing.com"); // Write your email here
    
     // Use PHP To Detect An Ajax Request
     if(!isset($_SERVER['HTTP_X_REQUESTED_WITH']) AND strtolower($_SERVER['HTTP_X_REQUESTED_WITH']) != 'xmlhttprequest') {
