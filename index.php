@@ -200,7 +200,7 @@
 
 									<span class="border"></span>
 
-									<p>For inspiration, we draw from an entire hemisphere's worth of culture, which leads to some of our most intriguing ideas for both food and beer. We aim our beers both at craft beer drinkers who enjoy crisp flavors, and at folks seeking a cultural experience that honestly and creatively reflects a combination of tradition and modernity.</p>
+									<p>As inspiration, we draw from an entire hemisphere's worth of culture, which is how we get some of out most intriguing ideas for both food and beer. We aim our beers both at craft beer drinkers who enjoy crisp flavors, and at folks seeking a cultural experience that honestly and creatively reflects a combination of tradition and modernity.</p>
 
 								</div>
 
@@ -234,7 +234,7 @@
 
 									<span class="border"></span>
 
-									<p>Our team is </p>
+									<p>One of the most exciting parts about this project is the team that makes it work. We have Ricardo Antunez, current owner and chef of Pura Vida Cocina based in McMinnville, heading up the food department. Matt Dakopolos is our Head Brewer slanging malt and hops for you. Ben Mendoza is our business dude, doing business things. </p>
 
 								</div>
 
@@ -250,9 +250,7 @@
 
 				<h3>Get in touch with us!</h3>
 				
-				<p>Wanna say hello? Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-				tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-				tempor incididunt ut labore et dolore magna aliqua.</p>
+				<p>Wanna know who we are, or have more questions about our plans? Regardless of the reason, if you need ot reach out to us outside of the normal means, fill out the form below and it'll hit our inbox. We'd love to hear from you.</p>
 
                 <!-- START - Contact Form -->
             	<form id="contact-form" name="contact-form" method="POST" data-name="Contact Form">
