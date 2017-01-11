@@ -3,25 +3,25 @@
 
 	<head>
 		<meta charset="utf-8">
-        <title>Xicha Brewing [chee-chah] [broo-ing] | Salem, Oregon</title>
-        <meta name="description" content="Located in Salem, Oregon, Xicha [chee-chah] Brewing offers an inclusive, family-friendly cultural experience by creating community around high quality, fresh Latin American food and house-brewed ales and lagers.">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="author" content="xichabrewing">
+		<title>Xicha Brewing [chee-chah] [broo-ing] | Salem, Oregon</title>
+		<meta name="description" content="Located in Salem, Oregon, Xicha [chee-chah] Brewing offers an inclusive, family-friendly cultural experience by creating community around high quality, fresh Latin American food and house-brewed ales and lagers.">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="author" content="xichabrewing">
 
-        <!-- ================= Favicon ================== -->
-        <!-- Standard -->
-        <link rel="shortcut icon" href="img/favicon.png">
-        <!-- Retina iPad Touch Icon-->
-        <link rel="apple-touch-icon" sizes="144x144" href="img/favicon-retina-ipad.png">
-        <!-- Retina iPhone Touch Icon-->
-        <link rel="apple-touch-icon" sizes="114x114" href="img/favicon-retina-iphone.png">
-        <!-- Standard iPad Touch Icon--> 
-        <link rel="apple-touch-icon" sizes="72x72" href="img/favicon-standard-ipad.png">
-        <!-- Standard iPhone Touch Icon--> 
-        <link rel="apple-touch-icon" sizes="57x57" href="img/favicon-standard-iphone.png">
+		<!-- ================= Favicon ================== -->
+		<!-- Standard -->
+		<link rel="shortcut icon" href="img/favicon.png">
+		<!-- Retina iPad Touch Icon-->
+		<link rel="apple-touch-icon" sizes="144x144" href="img/favicon-retina-ipad.png">
+		<!-- Retina iPhone Touch Icon-->
+		<link rel="apple-touch-icon" sizes="114x114" href="img/favicon-retina-iphone.png">
+		<!-- Standard iPad Touch Icon--> 
+		<link rel="apple-touch-icon" sizes="72x72" href="img/favicon-standard-ipad.png">
+		<!-- Standard iPhone Touch Icon--> 
+		<link rel="apple-touch-icon" sizes="57x57" href="img/favicon-standard-iphone.png">
 
-        <!-- ============== Resources style ============== -->
-        <link rel="stylesheet" href="css/style-color.css" />
+		<!-- ============== Resources style ============== -->
+		<link rel="stylesheet" href="css/style-color.css" />
 
 		<!-- Modernizr runs quickly on page load to detect features -->
 		<script src="js/modernizr.custom.js"></script>
@@ -68,8 +68,8 @@
 
 			<div class="content">
 
-				<h1 class="text-intro opacity-0">We're working<br>
-					on something<br>
+				<h1 class="text-intro opacity-0">West Salem, we're <br>
+					working	on something<br>
 					different.</h1>
 
 				<h2 class="text-intro opacity-0">We can’t wait to share it with you. In the mean time, follow our journey on social media and sign up to hear from us.</h2>
@@ -107,7 +107,7 @@
 
 				<h3>Cerveza. Comida. Cultura.</h3>
 
-				<p>At Xicha Brewing [chee-chah] [broo-ing], we offer an inclusive, family-friendly cultural experience by creating community around high quality, fresh Latin American food and house-brewed European ales and lagers. Our goal is honor Latin roots with a foundation of tradition and layers of creativity. 
+				<p>Xicha Brewing [chee-chah] [broo-ing] is a brewery that will be located in West Salem, Oregon. We hope to offer an inclusive, family-friendly cultural environment by creating community around high quality, fresh Latin American food and house-brewed European ales and lagers. Our goal is to honor Latin American traditions while constantly looking for moments of creativity. 
 				</p>
 
 				<br><br>
@@ -166,7 +166,7 @@
 
 									<span class="border"></span>
 
-									<p>As part of our beer crafting process, we believe it is important to think about the food it can be paired with. Our aim is make our beers pleasant and drinkable, while at the same time considering flavors that link to the many Latin American dishes served at our brewery.</p>
+									<p>As part of our beer crafting process, we believe it is important to think about the food it can be paired with. Our aim is make our beers pleasant and drinkable, while at the same time considering flavors that link them to the many Latin American dishes served at our brewery.</p>
 
 								</div>
 
@@ -200,7 +200,7 @@
 
 									<span class="border"></span>
 
-									<p>As inspiration, we draw from an entire hemisphere's worth of culture, which is how we get some of out most intriguing ideas for both food and beer. We aim our beers both at craft beer drinkers who enjoy crisp flavors, and at folks seeking a cultural experience that honestly and creatively reflects a combination of tradition and modernity.</p>
+									<p>As inspiration, we draw from an entire hemisphere's worth of culture, which is how we get some of out most intriguing ideas for both beer and food. We aim our beers both at craft beer drinkers who enjoy crisp flavors, and at folks seeking a cultural experience that honestly and creatively reflects a combination of tradition and modernity.</p>
 
 								</div>
 
@@ -250,51 +250,51 @@
 
 				<h3>Get in touch with us!</h3>
 				
-				<p>Wanna know who we are, or have more questions about our plans? Regardless of the reason, if you need ot reach out to us outside of the normal means, fill out the form below and it'll hit our inbox. We'd love to hear from you.</p>
+				<p>Want to know who we are, or have more questions about our plans? Regardless of the reason, if you need ot reach out to us outside of the normal means, fill out the form below and it'll hit our inbox. We'd love to hear from you.</p>
 
-                <!-- START - Contact Form -->
-            	<form id="contact-form" name="contact-form" method="POST" data-name="Contact Form">
+				<!-- START - Contact Form -->
+				<form id="contact-form" name="contact-form" method="POST" data-name="Contact Form">
 
-            		<div class="row">
+					<div class="row">
 
-                        <!-- Full name -->
-                        <div class="col-xs-12 col-sm-6 col-lg-6">
-                            <div class="form-group">
-                                <input type="text" id="name" class="form form-control" placeholder="Your Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Name'" name="name" data-name="Name" required>
-                            </div>
-                        </div>
+						<!-- Full name -->
+						<div class="col-xs-12 col-sm-6 col-lg-6">
+							<div class="form-group">
+								<input type="text" id="name" class="form form-control" placeholder="Your Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Name'" name="name" data-name="Name" required>
+							</div>
+						</div>
 
-                        <!-- E-mail -->
-                        <div class="col-xs-12 col-sm-6 col-lg-6">
-                            <div class="form-group">
-                                <input type="email" id="email" class="form form-control" placeholder="Your Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email'" name="email-address" data-name="Email Address" required>
-                            </div>
-                        </div>
+						<!-- E-mail -->
+						<div class="col-xs-12 col-sm-6 col-lg-6">
+							<div class="form-group">
+								<input type="email" id="email" class="form form-control" placeholder="Your Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email'" name="email-address" data-name="Email Address" required>
+							</div>
+						</div>
 
-                        <!-- Subject -->
-                        <div class="col-xs-12 col-sm-12 col-lg-12">
-                            <div class="form-group">
-                                <input type="text" id="subject" class="form form-control" placeholder="Write the subject" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Write the subject'" name="subject" data-name="Subject">
-                            </div>
-                        </div>
+						<!-- Subject -->
+						<div class="col-xs-12 col-sm-12 col-lg-12">
+							<div class="form-group">
+								<input type="text" id="subject" class="form form-control" placeholder="Write the subject" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Write the subject'" name="subject" data-name="Subject">
+							</div>
+						</div>
 
-                        <!-- Message -->
-                        <div class="col-xs-12 col-sm-12 col-lg-12 no-padding">
-                            <div class="form-group">
-                                <textarea id="text-area" class="form textarea form-control" placeholder="Your message here... 20 characters Min." onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your message here... 20 characters Min.'" name="message" data-name="Text Area" required></textarea>
-                            </div>
-                        </div>
+						<!-- Message -->
+						<div class="col-xs-12 col-sm-12 col-lg-12 no-padding">
+							<div class="form-group">
+								<textarea id="text-area" class="form textarea form-control" placeholder="Your message here... 20 characters Min." onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your message here... 20 characters Min.'" name="message" data-name="Text Area" required></textarea>
+							</div>
+						</div>
 
-                    </div>
+					</div>
 
-                	<!-- Button submit -->
-                	<button type="submit" id="valid-form" class="btn btn-color">Send my Message</button>
-    
-                </form>
-                <!-- END - Contact Form -->
-	            
-	            <!-- Answer for the contact form is displayed in the next div, do not remove it. -->       
-                <div id="block-answer">
+					<!-- Button submit -->
+					<button type="submit" id="valid-form" class="btn btn-color">Send my Message</button>
+	
+				</form>
+				<!-- END - Contact Form -->
+				
+				<!-- Answer for the contact form is displayed in the next div, do not remove it. -->       
+				<div id="block-answer">
 
 					<div id="answer"></div>
 
@@ -302,31 +302,31 @@
 
 				<div class="info-contact row">
 					<div itemscope itemtype="http://schema.org/Restaurant">
-	                    <div class="col-xs-12 col-sm-4 col-lg-4 item-map">
-	                        <div class="contact-item"><i class="icon ion-ios-telephone"></i>
-	                            <p><span itemprop="telephone">Phone: 971-209-2872</span>
-	                            </p>
-	                        </div>
-	                    </div>
+						<div class="col-xs-12 col-sm-4 col-lg-4 item-map">
+							<div class="contact-item"><i class="icon ion-ios-telephone"></i>
+								<p><span itemprop="telephone">Phone: 971-209-2872</span>
+								</p>
+							</div>
+						</div>
 
-	                    <div class="col-xs-12 col-sm-4 col-lg-4 item-map">
-	                        <div class="contact-item"><i class="icon ion-ios-location"></i>
-	                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-		                            <p><span itemprop="streetAddress">576 Patterson Street NW Suite 140</span>
-		                                <br><span itemprop="addressLocality">Salem</span>, 
-		                                    <span itemprop="addressRegion">OR</span> <span itemprop="postalCode">97304</span></p>
-	                            </div>
-	                        </div>
-	                    </div>
+						<div class="col-xs-12 col-sm-4 col-lg-4 item-map">
+							<div class="contact-item"><i class="icon ion-ios-location"></i>
+								<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+									<p><span itemprop="streetAddress">576 Patterson Street NW Suite 140</span>
+										<br><span itemprop="addressLocality">Salem</span>, 
+											<span itemprop="addressRegion">OR</span> <span itemprop="postalCode">97304</span></p>
+								</div>
+							</div>
+						</div>
 
-	                    <div class="col-xs-12 col-sm-4 col-lg-4 item-map">
-	                        <div class="contact-item"><i class="icon ion-ios-email"></i>
-	                            <p><a href="mailto:info@xichabrewing.com">info@xichabrewing.com</a>
-	                            </p>
-	                        </div>
-	                    </div>
-	                </div>
-                </div>
+						<div class="col-xs-12 col-sm-4 col-lg-4 item-map">
+							<div class="contact-item"><i class="icon ion-ios-email"></i>
+								<p><a href="mailto:info@xichabrewing.com">info@xichabrewing.com</a>
+								</p>
+							</div>
+						</div>
+					</div>
+				</div>
 
 			</div>
 			<!-- /. Content -->
@@ -359,28 +359,28 @@
 					<!-- Newsletter Form -->
 					<div id="subscribe">
 
-		                <form action="php/notify-me.php" id="notifyMe" method="POST">
+						<form action="php/notify-me.php" id="notifyMe" method="POST">
 
-		                    <div class="form-group">
+							<div class="form-group">
 
-		                        <div class="controls">
-		                            
-		                        	<!-- Field  -->
-		                        	<input type="text" id="mail-sub" name="email" placeholder="Click here to write your email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Click here to write your email'" class="form-control email srequiredField" />
+								<div class="controls">
+									
+									<!-- Field  -->
+									<input type="text" id="mail-sub" name="email" placeholder="Click here to write your email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Click here to write your email'" class="form-control email srequiredField" />
 
-		                        	<!-- Spinner top left during the submission -->
-		                        	<i class="fa fa-spinner opacity-0"></i>
+									<!-- Spinner top left during the submission -->
+									<i class="fa fa-spinner opacity-0"></i>
 
-		                            <!-- Button -->
-		                            <button class="btn btn-lg submit">Get notified</button>
+									<!-- Button -->
+									<button class="btn btn-lg submit">Get notified</button>
 
-		                            <div class="clear"></div>
+									<div class="clear"></div>
 
-		                        </div>
+								</div>
 
-		                    </div>
+							</div>
 
-		                </form>
+						</form>
 
 						<!-- Answer for the newsletter form is displayed in the next div, do not remove it. -->
 						<div class="block-message">
@@ -393,8 +393,8 @@
 
 						</div>
 
-        			</div>
-        			<!-- /. Newsletter Form -->
+					</div>
+					<!-- /. Newsletter Form -->
 
 				</div>
 				<!-- /. dialog-inner -->
@@ -411,75 +411,75 @@
 		<!-- Root element of PhotoSwipe, the gallery. Must have class pswp. -->
 		<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
 
-		    <!-- Background of PhotoSwipe. 
-	        	It's a separate element as animating opacity is faster than rgba(). -->
-		    <div class="pswp__bg"></div>
+			<!-- Background of PhotoSwipe. 
+				It's a separate element as animating opacity is faster than rgba(). -->
+			<div class="pswp__bg"></div>
 
-		    <!-- Slides wrapper with overflow:hidden. -->
-		    <div class="pswp__scroll-wrap">
+			<!-- Slides wrapper with overflow:hidden. -->
+			<div class="pswp__scroll-wrap">
 
-		        <!-- Container that holds slides. 
-		            PhotoSwipe keeps only 3 of them in the DOM to save memory.
-		            Don't modify these 3 pswp__item elements, data is added later on. -->
-		        <div class="pswp__container">
-		            <div class="pswp__item"></div>
-		            <div class="pswp__item"></div>
-		            <div class="pswp__item"></div>
-		        </div>
+				<!-- Container that holds slides. 
+					PhotoSwipe keeps only 3 of them in the DOM to save memory.
+					Don't modify these 3 pswp__item elements, data is added later on. -->
+				<div class="pswp__container">
+					<div class="pswp__item"></div>
+					<div class="pswp__item"></div>
+					<div class="pswp__item"></div>
+				</div>
 
-		        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
-		        <div class="pswp__ui pswp__ui--hidden">
+				<!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+				<div class="pswp__ui pswp__ui--hidden">
 
-		            <div class="pswp__top-bar">
+					<div class="pswp__top-bar">
 
-		                <!--  Controls are self-explanatory. Order can be changed. -->
+						<!--  Controls are self-explanatory. Order can be changed. -->
 
-		                <div class="pswp__counter"></div>
+						<div class="pswp__counter"></div>
 
-		                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+						<button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
 
-		                <button class="pswp__button pswp__button--share" title="Share"></button>
+						<button class="pswp__button pswp__button--share" title="Share"></button>
 
-		                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+						<button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
 
-		                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+						<button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
 
-		                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
-		                <!-- element will get class pswp__preloader--active when preloader is running -->
-		                <div class="pswp__preloader">
-		                    <div class="pswp__preloader__icn">
-		                      <div class="pswp__preloader__cut">
-		                        <div class="pswp__preloader__donut"></div>
-		                      </div>
-		                    </div>
-		                </div>
+						<!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+						<!-- element will get class pswp__preloader--active when preloader is running -->
+						<div class="pswp__preloader">
+							<div class="pswp__preloader__icn">
+							  <div class="pswp__preloader__cut">
+								<div class="pswp__preloader__donut"></div>
+							  </div>
+							</div>
+						</div>
 
-		            </div>
+					</div>
 
-		            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
-		                <div class="pswp__share-tooltip"></div> 
-		            </div>
+					<div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+						<div class="pswp__share-tooltip"></div> 
+					</div>
 
-		            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
-		            </button>
+					<button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+					</button>
 
-		            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
-		            </button>
+					<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+					</button>
 
-		            <div class="pswp__caption">
-		                <div class="pswp__caption__center"></div>
-		            </div>
+					<div class="pswp__caption">
+						<div class="pswp__caption__center"></div>
+					</div>
 
-		        </div>
+				</div>
 
-		    </div>
+			</div>
 
 		</div>
 		<!-- /. Root element of PhotoSwipe. Must have class pswp. -->
 
 	<!-- ///////////////////\\\\\\\\\\\\\\\\\\\ -->
-    <!-- ********** Resources jQuery ********** -->
-    <!-- \\\\\\\\\\\\\\\\\\\/////////////////// -->
+	<!-- ********** Resources jQuery ********** -->
+	<!-- \\\\\\\\\\\\\\\\\\\/////////////////// -->
 	
 	<!-- * Libraries jQuery, Easing and Bootstrap - Be careful to not remove them * -->
 	<script src="js/jquery.min.js"></script>
