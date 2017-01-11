@@ -312,9 +312,9 @@
 						<div class="col-xs-12 col-sm-4 col-lg-4 item-map">
 							<div class="contact-item"><i class="icon ion-ios-location"></i>
 								<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-									<p><span itemprop="streetAddress">576 Patterson Street NW Suite 140</span>
+									<p><span itemprop="streetAddress"><a target="_blank" href="https://www.google.com/maps/place/576+Patterson+St+NW+%23140,+Salem,+OR+97304/@44.9463608,-123.0575422,17z/data=!3m1!4b1!4m5!3m4!1s0x54bfff9e76a21e8d:0xbc68b4fea73ce00d!8m2!3d44.9463608!4d-123.0553535">576 Patterson Street NW Suite 140</span>
 										<br><span itemprop="addressLocality">Salem</span>, 
-											<span itemprop="addressRegion">OR</span> <span itemprop="postalCode">97304</span></p>
+											<span itemprop="addressRegion">OR</span> <span itemprop="postalCode">97304</span></a></p>
 								</div>
 							</div>
 						</div>
