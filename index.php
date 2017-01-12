@@ -68,9 +68,9 @@
 
 			<div class="content">
 
-				<h1 class="text-intro opacity-0">West Salem, we're <br>
-					working	on something<br>
-					different.</h1>
+				<h1 class="text-intro opacity-0">West Salem, <br> 
+					we're working on <br>
+					something new.</h1>
 
 				<h2 class="text-intro opacity-0">We can’t wait to share it with you. In the mean time, follow our journey on social media and sign up to hear from us.</h2>
 
