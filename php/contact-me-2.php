@@ -1,7 +1,6 @@
 <?php
 require("../sendgrid-php/sendgrid-php.php");
 
-//$apiKey = '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';
 $apiKey = getenv('SENDGRID_API_KEY');
 $sg = new \SendGrid($apiKey);
 
