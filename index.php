@@ -72,7 +72,7 @@
 					we're working on <br>
 					something new.</h1>
 
-				<h2 class="text-intro opacity-0">We can’t wait to share it with you. In the mean time, follow our journey on social media and sign up to hear from us.</h2>
+				<h2 class="text-intro opacity-0">And we can’t wait to share it with you. In the mean time, follow our journey on social media and sign up to hear from us.</h2>
 
 				<nav>
 					<ul>
